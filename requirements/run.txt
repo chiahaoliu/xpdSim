@@ -2,3 +2,4 @@ ophyd
 pyfai
 databroker=0.13.0
 bluesky
+pyyaml=3.13
